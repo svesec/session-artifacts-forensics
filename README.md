@@ -91,3 +91,16 @@ The project aims to bridge the gap between:
 This repository is intended for educational and research purposes only.
 
 The demonstrated techniques and observations are performed in controlled environments and should not be applied to systems without proper authorization.
+
+## Repository Structure
+
+This repository is organized as a focused case study with clearly separated sections:
+
+- [Methodology](methodology.md)  
+  Forensic approach, analytical workflow, and methodological limitations.
+
+- [Practical Analysis](practical-analysis.md)  
+  A hands-on case study analyzing session artifacts and HTTP traffic behavior.
+
+- [Evidence Evaluation](evidence-evaluation.md)  
+  Assessment of artifact reliability, correlation strength, and forensic value.
